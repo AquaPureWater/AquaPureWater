@@ -36,7 +36,7 @@ return;
 }
 
 const message =
-`💧 UMS Drinking Water
+`💧 Aqua Pure Water
 📦 New Order
 
 👤 Name: ${name}
